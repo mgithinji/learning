@@ -31,6 +31,8 @@ class Car:
 # class instances
 prius = Car('blue', 20000)
 accord = Car('black', 30000)
+fusion = Car('white', 4000)
 
 print(prius)
 print(accord)
+print(fusion)

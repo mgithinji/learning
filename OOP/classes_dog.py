@@ -25,6 +25,15 @@ class Dog:
     def speak(self, sound):
         return '{} says {}'.format(self.name, sound)
 
+class JackRussellTerrier(Dog):
+    pass
+
+class Dachshund(Dog):
+    pass
+
+class Bulldog(Dog):
+    pass
+
 # class instances of 'Dog'
 buddy = Dog('Buddy', 9)
 miles = Dog('Miles', 4)

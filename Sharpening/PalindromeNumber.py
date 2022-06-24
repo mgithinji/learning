@@ -1,5 +1,6 @@
 # leetcode: https://leetcode.com/problems/palindrome-number/
 
+# Approaches:
 # 1. create two lists of digits, one reversed and check equality.
 # 2. stringify the number, reverse the string, and check equality.
 
